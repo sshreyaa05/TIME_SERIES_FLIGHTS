@@ -22,3 +22,9 @@ c. ACF and PACF plots helped in selecting optimal parameters for ARIMA and SARIM
 
 
 
+
+
+
+
+
+
